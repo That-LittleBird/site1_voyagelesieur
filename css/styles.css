@@ -99,10 +99,6 @@ h1{
 
 /* ----- Section Transport ----- */
 
-.transport{
-    
-}
-
 .titre-section{
     display: flex;
     justify-content: space-between;
@@ -138,10 +134,11 @@ h3{
     text-align: center;
 
     margin-bottom: 0px;
+    text-align: center;
 }
 
-article p{
-
+.titre-section p{
+    justify-content: center;
 }
 
 /* ----- Footer ----- */
